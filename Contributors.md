@@ -1,7 +1,7 @@
 # Contributors
 - [Trần Huỳnh Đăng Khôi](https://github.com/KhoiTarn)
 - [Kazzpars](https://github.com/rid-acrh238)
-- [Trần Minh Nghĩa] (https://github.com/nghia223412)
+- [Trần Minh Nghĩa](https://github.com/nghia223412)
 - [Emmanuel Zelaya-Armenta](https://github.com/Emmanuel-ZA)
 - [Joshua Norris](https://github.com/Noshie23)
 - [santhosh teja santhosh teja ](https://github.com/Yashs02-code)
